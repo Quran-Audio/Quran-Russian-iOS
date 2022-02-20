@@ -1,1 +1,1 @@
-# Quran-Russian-iOS
+# Listen to Quran Audio with Russian Translation
