@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "QuranAudioPlayerKit",
+        "repositoryURL": "https://github.com/Quran-Audio/QuranAudioPlayerKit",
+        "state": {
+          "branch": null,
+          "revision": "039f6b778346394892fd15f6bdbcffa9918664a1",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

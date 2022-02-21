@@ -1,0 +1,1040 @@
+{
+    "baseUrl": "https://archive.org/download/The_Noble_Quran_With_Russian__Translation_High_Quality_ISO_CD_Image",
+    "shareText": "Quran Russian, app for those who love to listen, Quran with Russian meaning\n\n iOS: https://apps.apple.com/us/app/quran-audio-russian/id1611062840?mt=8 \n\n MacOS:macappstore://itunes.apple.com/in/app/quran-audio-russian/id1611062840?mt=8",
+    "mail": {
+        "subject": "Quran Audio Russian - Apple",
+        "to": [
+            "abidkuwaitamani@gmail.com",
+            "abuabdullah.sed@gmail.com",
+            "smartedevelopers@gmail.com"
+        ]
+    },
+    "chapters": [
+        {
+            "index": 1,
+            "nameTrans": "al-Fatihah",
+            "name": "аль-Фатиха",
+            "meaning": "Открывающая Книгу",
+            "fileName": "Сура 001 — АЛЬ-ФАТИХА (Открывающая Коран).mp3",
+            "size": "738.7K",
+            "durationInSecs": 86
+        },
+        {
+            "index": 2,
+            "nameTrans": "al-Baqarah",
+            "name": "аль-Бакара",
+            "meaning": "Корова",
+            "fileName": "Сура 002 — АЛЬ-БАКАРА (Корова).mp3",
+            "size": "96.2M",
+            "durationInSecs": 12601
+        },
+        {
+            "index": 3,
+            "nameTrans": "Al-Imran",
+            "name": "аль Имран",
+            "meaning": "Семейство Имрана",
+            "fileName": "Сура 003 — ААЛИ ИМРАН (Семейство Имрана).mp3",
+            "size": "60.6M",
+            "durationInSecs": 7932
+        },
+        {
+            "index": 4,
+            "nameTrans": "an-Nisa'",
+            "name": "ан-Ниса",
+            "meaning": "Женщины",
+            "fileName": "Сура 004 — АН-НИСА (Женщины).mp3",
+            "size": "62.2M",
+            "durationInSecs": 8139
+        },
+        {
+            "index": 5,
+            "nameTrans": "al-Ma'idah",
+            "name": "аль-Маида",
+            "meaning": "Трапеза",
+            "fileName": "Сура 005 — АЛЬ-МАИДА (Трапеза).mp3",
+            "size": "47.7M",
+            "durationInSecs": 6244
+        },
+        {
+            "index": 6,
+            "nameTrans": "al-An`am",
+            "name": "аль-Анам",
+            "meaning": "Скот",
+            "fileName": "Сура 006 — АЛЬ-АНАМ (Скот).mp3",
+            "size": "54.1M",
+            "durationInSecs": 7084
+        },
+        {
+            "index": 7,
+            "nameTrans": "al-A`raf",
+            "name": "аль-Араф",
+            "meaning": "Преграды",
+            "fileName": "Сура 007 — АЛЬ-АРАФ (Ограды).mp3",
+            "size": "59.4M",
+            "durationInSecs": 7772
+        },
+        {
+            "index": 8,
+            "nameTrans": "al-Anfal",
+            "name": "аль-Анфаль",
+            "meaning": "Трофеи",
+            "fileName": "Сура 008 — АЛЬ-АНФАЛЬ (Трофеи).mp3",
+            "size": "22.6M",
+            "durationInSecs": 2952
+        },
+        {
+            "index": 9,
+            "nameTrans": "at-Taubah",
+            "name": "ат-Тавба",
+            "meaning": "Покаяние",
+            "fileName": "Сура 009 — АТ-ТАУБА (Покаяние).mp3",
+            "size": "45.0M",
+            "durationInSecs": 5887
+        },
+        {
+            "index": 10,
+            "nameTrans": "Yunus",
+            "name": "Юнус",
+            "meaning": "Юнус",
+            "fileName": "Сура 010 — ЙУНУС (Иона).mp3",
+            "size": "32.9M",
+            "durationInSecs": 4301
+        },
+        {
+            "index": 11,
+            "nameTrans": "Hud",
+            "name": "Худ",
+            "meaning": "Худ",
+            "fileName": "Сура 011 — ХУД (Худ).mp3",
+            "size": "33.9M",
+            "durationInSecs": 4432
+        },
+        {
+            "index": 12,
+            "nameTrans": "Yusuf",
+            "name": "Юсуф",
+            "meaning": "Юсуф",
+            "fileName": "Сура 012 — ЙУСУФ (Иосиф).mp3",
+            "size": "30.9M",
+            "durationInSecs": 4046
+        },
+        {
+            "index": 13,
+            "nameTrans": "ar-Ra`d",
+            "name": "ар-Рад",
+            "meaning": "Гром",
+            "fileName": "Сура 013 — АР-РААД (Гром).mp3",
+            "size": "15.0M",
+            "durationInSecs": 1954
+        },
+        {
+            "index": 14,
+            "nameTrans": "Ibrahim",
+            "name": "Ибрахим",
+            "meaning": "Ибрахим",
+            "fileName": "Сура 014 — ИБРАХИМ (Авраам).mp3",
+            "size": "15.0M",
+            "durationInSecs": 1964
+        },
+        {
+            "index": 15,
+            "nameTrans": "al-Hijr",
+            "name": "аль-Хиджр",
+            "meaning": "Аль-Хиджр",
+            "fileName": "Сура 015 — АЛЬ-ХИДЖР (Хиджр).mp3",
+            "size": "12.3M",
+            "durationInSecs": 1606
+        },
+        {
+            "index": 16,
+            "nameTrans": "an-Nahl",
+            "name": "ан-Нахль",
+            "meaning": "Пчёлы",
+            "fileName": "Сура 016 — АН-НАХЛЬ (Пчелы).mp3",
+            "size": "32.0M",
+            "durationInSecs": 4190
+        },
+        {
+            "index": 17,
+            "nameTrans": "Al-Isra",
+            "name": "аль-Исра",
+            "meaning": "Ночной перенос",
+            "fileName": "Сура 017 — АЛЬ-ИСРА (Ночной Перенос).mp3",
+            "size": "26.2M",
+            "durationInSecs": 3423
+        },
+        {
+            "index": 18,
+            "nameTrans": "al-Kahf",
+            "name": "аль-Кахф",
+            "meaning": "Пещера",
+            "fileName": "Сура 018 — АЛЬ-КАХФ (Пещера).mp3",
+            "size": "26.3M",
+            "durationInSecs": 3442
+        },
+        {
+            "index": 19,
+            "nameTrans": "Maryam",
+            "name": "Марьям",
+            "meaning": "Марьям",
+            "fileName": "Сура 019 — МАРЬЯМ (Мария).mp3",
+            "size": "16.7M",
+            "durationInSecs": 2182
+        },
+        {
+            "index": 20,
+            "nameTrans": "Ta Ha",
+            "name": "Та Ха",
+            "meaning": "Та Ха",
+            "fileName": "Сура 020 — ТА ХА (Та Ха).mp3",
+            "size": "22.4M",
+            "durationInSecs": 2933
+        },
+        {
+            "index": 21,
+            "nameTrans": "al-Anbiya'",
+            "name": "аль-Анбия",
+            "meaning": "Пророки",
+            "fileName": "Сура 021 — АЛЬ-АНБИЙА (Пророки).mp3",
+            "size": "20.4M",
+            "durationInSecs": 2671
+        },
+        {
+            "index": 22,
+            "nameTrans": "al-Hajj",
+            "name": "аль-Хаджж",
+            "meaning": "Паломничество",
+            "fileName": "Сура 022 — АЛЬ-ХАДЖЖ (Паломничество).mp3",
+            "size": "22.4M",
+            "durationInSecs": 2929
+        },
+        {
+            "index": 23,
+            "nameTrans": "al-Mu'minun",
+            "name": "аль-Муминун",
+            "meaning": "Верующие",
+            "fileName": "Сура 023 — АЛЬ-МУМИНУН (Верующие).mp3",
+            "size": "19.1M",
+            "durationInSecs": 2501
+        },
+        {
+            "index": 24,
+            "nameTrans": "an-Nur",
+            "name": "ан-Нур",
+            "meaning": "Свет",
+            "fileName": "Сура 024 — АН-НУР (Свет).mp3",
+            "size": "24.2M",
+            "durationInSecs": 3162
+        },
+        {
+            "index": 25,
+            "nameTrans": "al-Furqan",
+            "name": "аль-Фуркан",
+            "meaning": "Различение",
+            "fileName": "Сура 025 — АЛЬ-ФУРКАН (Различение).mp3",
+            "size": "15.4M",
+            "durationInSecs": 2004
+        },
+        {
+            "index": 26,
+            "nameTrans": "ash-Shu`ara'",
+            "name": "аш-Шуара",
+            "meaning": "Поэты",
+            "fileName": "Сура 026 — АШ-ШУАРА (Поэты).mp3",
+            "size": "25.2M",
+            "durationInSecs": 3298
+        },
+        {
+            "index": 27,
+            "nameTrans": "an-Naml",
+            "name": "ан-Намль",
+            "meaning": "Муравьи",
+            "fileName": "Сура 027 — АН-НАМЛЬ (Муравьи).mp3",
+            "size": "21.1M",
+            "durationInSecs": 2760
+        },
+        {
+            "index": 28,
+            "nameTrans": "al-Qasas",
+            "name": "аль-Касас",
+            "meaning": "Повествование",
+            "fileName": "Сура 028 — АЛЬ-КАСАС (Рассказ).mp3",
+            "size": "25.0M",
+            "durationInSecs": 3272
+        },
+        {
+            "index": 29,
+            "nameTrans": "al-`Ankabut",
+            "name": "аль-Анкабут",
+            "meaning": "Паук",
+            "fileName": "Сура 029 — АЛЬ-АНКАБУТ (Паук).mp3",
+            "size": "17.1M",
+            "durationInSecs": 2231
+        },
+        {
+            "index": 30,
+            "nameTrans": "ar-Rum",
+            "name": "ар-Рум",
+            "meaning": "Римляне",
+            "fileName": "Сура 030 — АР-РУМ (Римляне).mp3",
+            "size": "14.7M",
+            "durationInSecs": 1914
+        },
+        {
+            "index": 31,
+            "nameTrans": "Luqman",
+            "name": "Лукман",
+            "meaning": "Лукман",
+            "fileName": "Сура 031 — ЛУКМАН (Лукман).mp3",
+            "size": "8.8M",
+            "durationInSecs": 1139
+        },
+        {
+            "index": 32,
+            "nameTrans": "as-Sajdah",
+            "name": "ас-Саджда",
+            "meaning": "Поклон",
+            "fileName": "Сура 032 — АС-САДЖДА (Земной Поклон).mp3",
+            "size": "6.4M",
+            "durationInSecs": 828
+        },
+        {
+            "index": 33,
+            "nameTrans": "al-Ahzab",
+            "name": "аль-Ахзаб",
+            "meaning": "Сонмы",
+            "fileName": "Сура 033 — АЛЬ-АХЗАБ (Союзники).mp3",
+            "size": "21.1M",
+            "durationInSecs": 2752
+        },
+        {
+            "index": 34,
+            "nameTrans": "Saba'",
+            "name": "Саба",
+            "meaning": "Саба",
+            "fileName": "Сура 034 — САБА (Сава).mp3",
+            "size": "14.0M",
+            "durationInSecs": 1828
+        },
+        {
+            "index": 35,
+            "nameTrans": "Fatir",
+            "name": "Фатир",
+            "meaning": "Творец",
+            "fileName": "Сура 035 — ФАТЫР (Творец).mp3",
+            "size": "12.8M",
+            "durationInSecs": 1668
+        },
+        {
+            "index": 36,
+            "nameTrans": "Ya Sin",
+            "name": "Йа Син",
+            "meaning": "Йа Син",
+            "fileName": "Сура 036 — ЙА СИН (Йа Син).mp3",
+            "size": "13.3M",
+            "durationInSecs": 1734
+        },
+        {
+            "index": 37,
+            "nameTrans": "as-Saffat",
+            "name": "ас-Саффат",
+            "meaning": "Выстроившиеся в ряды",
+            "fileName": "Сура 037 — АС-САФФАТ (Выстроившиеся).mp3",
+            "size": "18.1M",
+            "durationInSecs": 2366
+        },
+        {
+            "index": 38,
+            "nameTrans": "Sad",
+            "name": "Сад",
+            "meaning": "Буква Сад",
+            "fileName": "Сура 038 — САД (Сад).mp3",
+            "size": "13.9M",
+            "durationInSecs": 1820
+        },
+        {
+            "index": 39,
+            "nameTrans": "az-Zumar",
+            "name": "аз-Зумар",
+            "meaning": "Толпы",
+            "fileName": "Сура 039 — АЗ-ЗУМАР (Толпы).mp3",
+            "size": "20.9M",
+            "durationInSecs": 2732
+        },
+        {
+            "index": 40,
+            "nameTrans": "Ghafir",
+            "name": "Гафир",
+            "meaning": "Прощающий",
+            "fileName": "Сура 040 — ГАФИР (Прощающий).mp3",
+            "size": "20.4M",
+            "durationInSecs": 2666
+        },
+        {
+            "index": 41,
+            "nameTrans": "Fussilat",
+            "name": "Фуссилят",
+            "meaning": "Разъяснены",
+            "fileName": "Сура 041 — ФУССЫЛАТ (Разъяснены).mp3",
+            "size": "14.6M",
+            "durationInSecs": 1900
+        },
+        {
+            "index": 42,
+            "nameTrans": "ash-Shura",
+            "name": "аш-Шура",
+            "meaning": "Совет",
+            "fileName": "Сура 042 — АШ-ШУРА (Совет).mp3",
+            "size": "14.7M",
+            "durationInSecs": 1918
+        },
+        {
+            "index": 43,
+            "nameTrans": "az-Zukhruf",
+            "name": "аз-Зухруф",
+            "meaning": "Украшения",
+            "fileName": "Сура 043 — АЗ-ЗУХРУФ (Украшения).mp3",
+            "size": "15.7M",
+            "durationInSecs": 2054
+        },
+        {
+            "index": 44,
+            "nameTrans": "ad-Dukhan",
+            "name": "ад-Духан",
+            "meaning": "Дым",
+            "fileName": "Сура 044 — АД-ДУХАН (Дым).mp3",
+            "size": "7.1M",
+            "durationInSecs": 928
+        },
+        {
+            "index": 45,
+            "nameTrans": "al-Jathiyah",
+            "name": "аль-Джасия",
+            "meaning": "Коленопреклонённые",
+            "fileName": "Сура 045 — АЛЬ-ДЖАСИЙА (Коленопреклоненные).mp3",
+            "size": "8.4M",
+            "durationInSecs": 1092
+        },
+        {
+            "index": 46,
+            "nameTrans": "al-Ahqaf",
+            "name": "аль-Ахкаф",
+            "meaning": "Пески",
+            "fileName": "Сура 046 — АЛЬ-АХКАФ (Барханы).mp3",
+            "size": "11.9M",
+            "durationInSecs": 1552
+        },
+        {
+            "index": 47,
+            "nameTrans": "Muhammad",
+            "name": "Мухаммад",
+            "meaning": "Мухаммед",
+            "fileName": "Сура 047 — МУХАММАД (Мухаммад).mp3",
+            "size": "9.5M",
+            "durationInSecs": 1240
+        },
+        {
+            "index": 48,
+            "nameTrans": "al-Fath",
+            "name": "аль-Фатх",
+            "meaning": "Победа",
+            "fileName": "Сура 048 — АЛЬ-ФАТХ (Победа).mp3",
+            "size": "9.5M",
+            "durationInSecs": 1239
+        },
+        {
+            "index": 49,
+            "nameTrans": "al-Hujurat",
+            "name": "аль-Худжурат",
+            "meaning": "Комнаты",
+            "fileName": "Сура 049 — АЛЬ-ХУДЖУРАТ (Комнаты).mp3",
+            "size": "6.3M",
+            "durationInSecs": 819
+        },
+        {
+            "index": 50,
+            "nameTrans": "Qaf",
+            "name": "Каф",
+            "meaning": "Буква Каф",
+            "fileName": "Сура 050 — КАФ (Каф).mp3",
+            "size": "7.0M",
+            "durationInSecs": 911
+        },
+        {
+            "index": 51,
+            "nameTrans": "ad-Dhariyat",
+            "name": "аз-Зарият",
+            "meaning": "Рассеивающие",
+            "fileName": "Сура 051 — АЗ-ЗАРИЙАТ (Рассеивающие Прах).mp3",
+            "size": "7.1M",
+            "durationInSecs": 921
+        },
+        {
+            "index": 52,
+            "nameTrans": "at-Tur",
+            "name": "ат-Тур",
+            "meaning": "Гора",
+            "fileName": "Сура 052 — АТ-ТУР (Гора).mp3",
+            "size": "6.3M",
+            "durationInSecs": 822
+        },
+        {
+            "index": 53,
+            "nameTrans": "an-Najm",
+            "name": "ан-Наджм",
+            "meaning": "Звезда",
+            "fileName": "Сура 053 — АН-НАДЖМ (Звезда).mp3",
+            "size": "6.4M",
+            "durationInSecs": 828
+        },
+        {
+            "index": 54,
+            "nameTrans": "al-Qamar",
+            "name": "аль-Камар",
+            "meaning": "Луна",
+            "fileName": "Сура 054 — АЛЬ-КАМАР (Месяц).mp3",
+            "size": "6.8M",
+            "durationInSecs": 887
+        },
+        {
+            "index": 55,
+            "nameTrans": "ar-Rahman",
+            "name": "ар-Рахман",
+            "meaning": "Милостивый",
+            "fileName": "Сура 055 — АР-РАХМАН (Милостивый).mp3",
+            "size": "8.7M",
+            "durationInSecs": 1126
+        },
+        {
+            "index": 56,
+            "nameTrans": "al-Waqi`ah",
+            "name": "аль-Вакиа",
+            "meaning": "Падающее",
+            "fileName": "Сура 056 — АЛЬ-ВАКИА (Событие).mp3",
+            "size": "9.1M",
+            "durationInSecs": 1187
+        },
+        {
+            "index": 57,
+            "nameTrans": "al-Hadid",
+            "name": "аль-Хадид",
+            "meaning": "Железо",
+            "fileName": "Сура 057 — АЛЬ-ХАДИД (Железо).mp3",
+            "size": "10.5M",
+            "durationInSecs": 1364
+        },
+        {
+            "index": 58,
+            "nameTrans": "al-Mujadilah",
+            "name": "аль-Муджадиля",
+            "meaning": "Препирающаяся",
+            "fileName": "Сура 058 — АЛЬ-МУДЖАДИЛА (Препирающаяся).mp3",
+            "size": "8.0M",
+            "durationInSecs": 1039
+        },
+        {
+            "index": 59,
+            "nameTrans": "al-Hashr",
+            "name": "аль-Хашр",
+            "meaning": "Собрание",
+            "fileName": "Сура 059 — АЛЬ-ХАШР (Сбор).mp3",
+            "size": "7.9M",
+            "durationInSecs": 1023
+        },
+        {
+            "index": 60,
+            "nameTrans": "al-Mumtahanah",
+            "name": "аль-Мумтахана",
+            "meaning": "Испытуемая",
+            "fileName": "Сура 060 — АЛЬ-МУМТАХАНА (Испытуемая).mp3",
+            "size": "5.9M",
+            "durationInSecs": 768
+        },
+        {
+            "index": 61,
+            "nameTrans": "as-Saff",
+            "name": "ас-Сафф",
+            "meaning": "Ряды",
+            "fileName": "Сура 061 — АС-САФФ (Ряды).mp3",
+            "size": "3.9M",
+            "durationInSecs": 500
+        },
+        {
+            "index": 62,
+            "nameTrans": "al-Jumu`ah",
+            "name": "аль-Джумуа",
+            "meaning": "День пятничной молитвы",
+            "fileName": "Сура 062 — АЛЬ-ДЖУМУА (Собрание).mp3",
+            "size": "2.9M",
+            "durationInSecs": 376
+        },
+        {
+            "index": 63,
+            "nameTrans": "al-Munafiqun",
+            "name": "аль-Мунафикун",
+            "meaning": "Лицемеры",
+            "fileName": "Сура 063 — АЛЬ-МУНАФИКУН (Лицемеры).mp3",
+            "size": "3.4M",
+            "durationInSecs": 436
+        },
+        {
+            "index": 64,
+            "nameTrans": "at-Taghabun",
+            "name": "ат-Тагабун",
+            "meaning": "Раскрытие самообмана",
+            "fileName": "Сура 064 — АТ-ТАГАБУН (Взаимное Обделение).mp3",
+            "size": "4.4M",
+            "durationInSecs": 568
+        },
+        {
+            "index": 65,
+            "nameTrans": "at-Talaq,",
+            "name": "ат-Таляк",
+            "meaning": "Развод",
+            "fileName": "Сура 065 — АТ-ТАЛАК (Развод).mp3",
+            "size": "4.8M",
+            "durationInSecs": 621
+        },
+        {
+            "index": 66,
+            "nameTrans": "at-Tahrim",
+            "name": "ат-Тахрим",
+            "meaning": "Запрещение",
+            "fileName": "Сура 066 — АТ-ТАХРИМ (Запрещение).mp3",
+            "size": "4.6M",
+            "durationInSecs": 591
+        },
+        {
+            "index": 67,
+            "nameTrans": "al-Mulk",
+            "name": "аль-Мульк",
+            "meaning": "Власть",
+            "fileName": "Сура 067 — АЛЬ-МУЛЬК (Власть).mp3",
+            "size": "6.0M",
+            "durationInSecs": 774
+        },
+        {
+            "index": 68,
+            "nameTrans": "al-Qalam",
+            "name": "аль-Калям",
+            "meaning": "Письменная трость",
+            "fileName": "Сура 068 — АЛЬ-КАЛАМ (Письменная Трость).mp3",
+            "size": "6.1M",
+            "durationInSecs": 789
+        },
+        {
+            "index": 69,
+            "nameTrans": "al-Haqqah",
+            "name": "аль-Хакка",
+            "meaning": "Неминуемое",
+            "fileName": "Сура 069 — АЛЬ-ХАККА (Неминуемое).mp3",
+            "size": "5.2M",
+            "durationInSecs": 672
+        },
+        {
+            "index": 70,
+            "nameTrans": "al-Ma`arij",
+            "name": "аль-Мааридж",
+            "meaning": "Ступени",
+            "fileName": "Сура 070 — АЛЬ-МААРИДЖ (Ступени).mp3",
+            "size": "4.2M",
+            "durationInSecs": 546
+        },
+        {
+            "index": 71,
+            "nameTrans": "Nuh",
+            "name": "Нух",
+            "meaning": "Нух",
+            "fileName": "Сура 071 — НУХ (Ной).mp3",
+            "size": "3.9M",
+            "durationInSecs": 498
+        },
+        {
+            "index": 72,
+            "nameTrans": "al-Jinn",
+            "name": "аль-Джинн",
+            "meaning": "Джинны",
+            "fileName": "Сура 072 — АЛЬ-ДЖИНН (Джинны).mp3",
+            "size": "4.5M",
+            "durationInSecs": 582
+        },
+        {
+            "index": 73,
+            "nameTrans": "al-Muzammil",
+            "name": "аль-Муззаммиль",
+            "meaning": "Закутавшийся",
+            "fileName": "Сура 073 — АЛЬ-МУЗЗАММИЛЬ (Закутавшийся).mp3",
+            "size": "3.4M",
+            "durationInSecs": 432
+        },
+        {
+            "index": 74,
+            "nameTrans": "al-Mudathir",
+            "name": "аль-Муддассир",
+            "meaning": "Завернувшийся",
+            "fileName": "Сура 074 — АЛЬ-МУДДАССИР (Завернувшийся).mp3",
+            "size": "4.7M",
+            "durationInSecs": 603
+        },
+        {
+            "index": 75,
+            "nameTrans": "al-Qiyamah",
+            "name": "аль-Кияма",
+            "meaning": "Воскресение",
+            "fileName": "Сура 075 — АЛЬ-КИЙАМА (Воскресение).mp3",
+            "size": "3.1M",
+            "durationInSecs": 396
+        },
+        {
+            "index": 76,
+            "nameTrans": "al-Insane",
+            "name": "аль-Инсан",
+            "meaning": "Человек",
+            "fileName": "Сура 076 — АЛЬ-ИНСАН (Человек).mp3",
+            "size": "4.3M",
+            "durationInSecs": 550
+        },
+        {
+            "index": 77,
+            "nameTrans": "al-Mursalat",
+            "name": "аль-Мурсалят",
+            "meaning": "Посылаемые",
+            "fileName": "Сура 077 — АЛЬ-МУРСАЛАТ (Посылаемые).mp3",
+            "size": "4.0M",
+            "durationInSecs": 511
+        },
+        {
+            "index": 78,
+            "nameTrans": "an-Naba'",
+            "name": "ан-Наба",
+            "meaning": "Весть",
+            "fileName": "Сура 078 — АН-НАБА (Весть).mp3",
+            "size": "3.7M",
+            "durationInSecs": 471
+        },
+        {
+            "index": 79,
+            "nameTrans": "an-Nazi`at",
+            "name": "ан-Назиат",
+            "meaning": "Исторгающие",
+            "fileName": "Сура 079 — АН-НАЗИАТ (Исторгающие).mp3",
+            "size": "3.6M",
+            "durationInSecs": 463
+        },
+        {
+            "index": 80,
+            "nameTrans": "`Abasa",
+            "name": "Абаса",
+            "meaning": "Нахмурился",
+            "fileName": "Сура 080 — АБАСА (Нахмурился).mp3",
+            "size": "2.9M",
+            "durationInSecs": 373
+        },
+        {
+            "index": 81,
+            "nameTrans": "at-Takwir",
+            "name": "ат-Таквир",
+            "meaning": "Скручивание",
+            "fileName": "Сура 081 — АТ-ТАКВИР (Скручивание).mp3",
+            "size": "2.0M",
+            "durationInSecs": 253
+        },
+        {
+            "index": 82,
+            "nameTrans": "al-Infitar",
+            "name": "аль-Инфитар",
+            "meaning": "Раскалывание",
+            "fileName": "Сура 082 — АЛЬ-ИНФИТАР (Раскалывание).mp3",
+            "size": "1.7M",
+            "durationInSecs": 213
+        },
+        {
+            "index": 83,
+            "nameTrans": "Al-Mutaffifeen",
+            "name": "аль-Мутаффифин",
+            "meaning": "Обвешивающие",
+            "fileName": "Сура 083 — АЛЬ-МУТАФФИФИН (Обвешивающие).mp3",
+            "size": "3.7M",
+            "durationInSecs": 476
+        },
+        {
+            "index": 84,
+            "nameTrans": "al-Inshiqaq",
+            "name": "аль-Иншикак",
+            "meaning": "Разверзнется",
+            "fileName": "Сура 084 — АЛЬ-ИНШИКАК (Разверзнется).mp3",
+            "size": "2.1M",
+            "durationInSecs": 266
+        },
+        {
+            "index": 85,
+            "nameTrans": "al-Buruj",
+            "name": "аль-Бурудж",
+            "meaning": "Созвездия",
+            "fileName": "Сура 085 — АЛЬ-БУРУДЖ (Созвездия Зодиака).mp3",
+            "size": "2.4M",
+            "durationInSecs": 304
+        },
+        {
+            "index": 86,
+            "nameTrans": "at-Tariq",
+            "name": "ат-Тарик",
+            "meaning": "Ночной путник",
+            "fileName": "Сура 086 — АТ-ТАРИК (Ночной Путник).mp3",
+            "size": "1.4M",
+            "durationInSecs": 169
+        },
+        {
+            "index": 87,
+            "nameTrans": "al-A`la",
+            "name": "аль-Аля",
+            "meaning": "Высочайший",
+            "fileName": "Сура 087 — АЛЬ-АЛЯ (Всевышний).mp3",
+            "size": "1.5M",
+            "durationInSecs": 192
+        },
+        {
+            "index": 88,
+            "nameTrans": "al-Ghashiya",
+            "name": "аль-Гашия",
+            "meaning": "Покрывающее",
+            "fileName": "Сура 088 — АЛЬ-ГАШИЙА (Покрывающее).mp3",
+            "size": "1.8M",
+            "durationInSecs": 228
+        },
+        {
+            "index": 89,
+            "nameTrans": "al-Fajr",
+            "name": "аль-Фаджр",
+            "meaning": "Заря",
+            "fileName": "Сура 089 — АЛЬ-ФАДЖР (Заря).mp3",
+            "size": "2.8M",
+            "durationInSecs": 354
+        },
+        {
+            "index": 90,
+            "nameTrans": "al-Balad",
+            "name": "аль-Баляд",
+            "meaning": "Город",
+            "fileName": "Сура 090 — АЛЬ-БАЛАД (Город).mp3",
+            "size": "1.7M",
+            "durationInSecs": 210
+        },
+        {
+            "index": 91,
+            "nameTrans": "ash-Shams",
+            "name": "аш-Шамс",
+            "meaning": "Солнце",
+            "fileName": "Сура 091 — АШ-ШАМС (Солнце).mp3",
+            "size": "1.3M",
+            "durationInSecs": 167
+        },
+        {
+            "index": 92,
+            "nameTrans": "al-Layl",
+            "name": "аль-Ляйль",
+            "meaning": "Ночь",
+            "fileName": "Сура 092 — АЛЬ-ЛЕЙЛ (Ночь).mp3",
+            "size": "1.6M",
+            "durationInSecs": 201
+        },
+        {
+            "index": 93,
+            "nameTrans": "ad-Duha",
+            "name": "ад-Духа",
+            "meaning": "Утро",
+            "fileName": "Сура 093 — АД-ДУХА (Утро).mp3",
+            "size": "955.0K",
+            "durationInSecs": 114
+        },
+        {
+            "index": 94,
+            "nameTrans": "ash-Sharh",
+            "name": "аш-Шарх",
+            "meaning": "Раскрытие",
+            "fileName": "Сура 094 — АЛЬ-ИНШИРАХ (Раскрытие).mp3",
+            "size": "682.2K",
+            "durationInSecs": 79
+        },
+        {
+            "index": 95,
+            "nameTrans": "at-Tin",
+            "name": "ат-Тин",
+            "meaning": "Смоковница",
+            "fileName": "Сура 095 — АТ-ТИН (Смоковница).mp3",
+            "size": "931.5K",
+            "durationInSecs": 111
+        },
+        {
+            "index": 96,
+            "nameTrans": "al-`Alaq",
+            "name": "аль-Аляк",
+            "meaning": "Сгусток",
+            "fileName": "Сура 096 — АЛЬ-АЛАК (Сгусток Крови).mp3",
+            "size": "1.4M",
+            "durationInSecs": 180
+        },
+        {
+            "index": 97,
+            "nameTrans": "al-qadr",
+            "name": "аль-Кадр",
+            "meaning": "Предопределение",
+            "fileName": "Сура 097 — АЛЬ-КАДР (Предопределение).mp3",
+            "size": "649.3K",
+            "durationInSecs": 75
+        },
+        {
+            "index": 98,
+            "nameTrans": "al-Bayyinah",
+            "name": "аль-Баййина",
+            "meaning": "Ясное знамение",
+            "fileName": "Сура 098 — АЛЬ-БЕЙЙИНА (Ясное Знамение).mp3",
+            "size": "1.6M",
+            "durationInSecs": 207
+        },
+        {
+            "index": 99,
+            "nameTrans": "Az-Zalzala",
+            "name": "аз-Зальзаля",
+            "meaning": "Землетрясение",
+            "fileName": "Сура 099 — АЗ-ЗАЛЗАЛА (Сотрясение).mp3",
+            "size": "834.2K",
+            "durationInSecs": 99
+        },
+        {
+            "index": 100,
+            "nameTrans": "al-`Adiyat",
+            "name": "аль-Адият",
+            "meaning": "Скачущие",
+            "fileName": "Сура 100 — АЛЬ-АДИЙАТ (Скачущие).mp3",
+            "size": "975.6K",
+            "durationInSecs": 117
+        },
+        {
+            "index": 101,
+            "nameTrans": "al-Qari`ah",
+            "name": "аль-Кариа",
+            "meaning": "Великое бедствие",
+            "fileName": "Сура 101 — АЛЬ-КАРИА (Великое Бедствие).mp3",
+            "size": "925.4K",
+            "durationInSecs": 110
+        },
+        {
+            "index": 102,
+            "nameTrans": "at-Takathur",
+            "name": "ат-Такасур",
+            "meaning": "Приумножение",
+            "fileName": "Сура 102 — АТ-ТАКАСУР (Страсть К Приумножению).mp3",
+            "size": "847.1K",
+            "durationInSecs": 100
+        },
+        {
+            "index": 103,
+            "nameTrans": "al-`Asr",
+            "name": "аль-Аср",
+            "meaning": "Время",
+            "fileName": "Сура 103 — АЛЬ-АСР (Предвечернее Время).mp3",
+            "size": "474.4K",
+            "durationInSecs": 53
+        },
+        {
+            "index": 104,
+            "nameTrans": "al-Humazah",
+            "name": "аль-Хумаза",
+            "meaning": "Хулитель",
+            "fileName": "Сура 104 — АЛЬ-ХУМАЗА (Хулитель).mp3",
+            "size": "826.0K",
+            "durationInSecs": 98
+        },
+        {
+            "index": 105,
+            "nameTrans": "al-Fil",
+            "name": "аль-Филь",
+            "meaning": "Слон",
+            "fileName": "Сура 105 — АЛЬ-ФИЛЬ (Слон).mp3",
+            "size": "653.4K",
+            "durationInSecs": 76
+        },
+        {
+            "index": 106,
+            "nameTrans": "al-Quraish",
+            "name": "Курайш",
+            "meaning": "Курайшиты",
+            "fileName": "Сура 106 — КУРЕЙШ (Курейшиты).mp3",
+            "size": "563.0K",
+            "durationInSecs": 64
+        },
+        {
+            "index": 107,
+            "nameTrans": "al-Ma`un",
+            "name": "аль-Маун",
+            "meaning": "Милостыня",
+            "fileName": "Сура 107 — АЛЬ-МАУН (Мелочь).mp3",
+            "size": "713.2K",
+            "durationInSecs": 83
+        },
+        {
+            "index": 108,
+            "nameTrans": "al-Kauthar",
+            "name": "аль-Кавсар",
+            "meaning": "Каусар",
+            "fileName": "Сура 108 — АЛЬ-КАУСАР (Изобилие).mp3",
+            "size": "392.4K",
+            "durationInSecs": 42
+        },
+        {
+            "index": 109,
+            "nameTrans": "al-Kafirun",
+            "name": "аль-Кафирун",
+            "meaning": "Неверующие",
+            "fileName": "Сура 109 — АЛЬ-КАФИРУН (Неверующие).mp3",
+            "size": "713.8K",
+            "durationInSecs": 83
+        },
+        {
+            "index": 110,
+            "nameTrans": "an-Nasr",
+            "name": "ан-Наср",
+            "meaning": "Помощь",
+            "fileName": "Сура 110 — АН-НАСР (Помощь).mp3",
+            "size": "516.0K",
+            "durationInSecs": 58
+        },
+        {
+            "index": 111,
+            "nameTrans": "Al-Masad",
+            "name": "аль-Масад",
+            "meaning": "Пальмовые волокна",
+            "fileName": "Сура 111 — АЛЬ-МАСАД (Пальмовые Волокна).mp3",
+            "size": "585.8K",
+            "durationInSecs": 67
+        },
+        {
+            "index": 112,
+            "nameTrans": "al-Ikhlas",
+            "name": "аль-Ихляс",
+            "meaning": "Искренность",
+            "fileName": "Сура 112 — АЛЬ-ИХЛАС (Очищение Веры).mp3",
+            "size": "367.7K",
+            "durationInSecs": 39
+        },
+        {
+            "index": 113,
+            "nameTrans": "al-Falaq",
+            "name": "аль-Фаляк",
+            "meaning": "Рассвет",
+            "fileName": "Сура 113 — АЛЬ-ФАЛЯК (Рассвет).mp3",
+            "size": "505.2K",
+            "durationInSecs": 57
+        },
+        {
+            "index": 114,
+            "nameTrans": "an-Nas",
+            "name": "ан-Нас",
+            "meaning": "Люди",
+            "fileName": "Сура 114 — АН-НАС (Люди).mp3",
+            "size": "717.2K",
+            "durationInSecs": 84
+        }
+    ]
+}

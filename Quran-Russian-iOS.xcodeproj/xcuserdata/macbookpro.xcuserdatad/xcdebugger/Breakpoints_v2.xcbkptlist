@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7DF9E102-58E4-4B26-89C9-32E3E9EC5BC4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A55F50D-C829-4097-8E23-A4ECB862763A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../../../Users/macbookpro/Library/Developer/Xcode/DerivedData/Quran-Russian-iOS-hjnphumnfkdjpshfzzcamggordbl/SourcePackages/checkouts/QuranAudioPlayerKit/Sources/QuranAudioPlayerKit/Modules/FullPlayer/FullPlayerView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69452653-4F66-4E13-9438-E26749506E13"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../../../Users/macbookpro/Library/Developer/Xcode/DerivedData/Quran-Russian-iOS-hjnphumnfkdjpshfzzcamggordbl/SourcePackages/checkouts/QuranAudioPlayerKit/Sources/QuranAudioPlayerKit/Modules/FullPlayer/FullPlayerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "playPause()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FA5C774-5C77-403D-9498-EAFEF034DE98"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../../../Users/macbookpro/Library/Developer/Xcode/DerivedData/Quran-Russian-iOS-hjnphumnfkdjpshfzzcamggordbl/SourcePackages/checkouts/QuranAudioPlayerKit/Sources/QuranAudioPlayerKit/Services/AudioService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "setupAudio()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "637C67BF-283E-48FB-9994-AB080E0BABDB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../../../Users/macbookpro/Library/Developer/Xcode/DerivedData/Quran-Russian-iOS-hjnphumnfkdjpshfzzcamggordbl/SourcePackages/checkouts/QuranAudioPlayerKit/Sources/QuranAudioPlayerKit/Services/AudioService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "setupAudio()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9ED891D-4FDF-4965-A5D1-85AFF2252522"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../../../Users/macbookpro/Library/Developer/Xcode/DerivedData/Quran-Russian-iOS-hjnphumnfkdjpshfzzcamggordbl/SourcePackages/checkouts/QuranAudioPlayerKit/Sources/QuranAudioPlayerKit/Services/AudioService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "getPlayUrl()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9ED891D-4FDF-4965-A5D1-85AFF2252522 - 67c3e045c8b63933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuranAudioPlayerKit.AudioService.getPlayUrl() -&gt; Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "Quran-Russian-iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Library/Developer/Xcode/DerivedData/Quran-Russian-iOS-hjnphumnfkdjpshfzzcamggordbl/SourcePackages/checkouts/QuranAudioPlayerKit/Sources/QuranAudioPlayerKit/Services/AudioService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "B9ED891D-4FDF-4965-A5D1-85AFF2252522 - 67c3e045c8b63933"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuranAudioPlayerKit.AudioService.getPlayUrl() -&gt; Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "Quran-Russian-iOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Library/Developer/Xcode/DerivedData/Quran-Russian-iOS-hjnphumnfkdjpshfzzcamggordbl/SourcePackages/checkouts/QuranAudioPlayerKit/Sources/QuranAudioPlayerKit/Services/AudioService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "311">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5AC9F866-C828-4472-9A49-F23EC750246F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../../../../Users/macbookpro/Library/Developer/Xcode/DerivedData/Quran-Russian-iOS-hjnphumnfkdjpshfzzcamggordbl/SourcePackages/checkouts/QuranAudioPlayerKit/Sources/QuranAudioPlayerKit/Services/AudioService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "getPlayUrl()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

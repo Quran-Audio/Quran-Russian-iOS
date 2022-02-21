@@ -1,0 +1,518 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		52AC44B327C4377500327907 /* Quran_Russian_iOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AC44A327C4377400327907 /* Quran_Russian_iOSApp.swift */; };
+		52AC44B427C4377500327907 /* Quran_Russian_iOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AC44A327C4377400327907 /* Quran_Russian_iOSApp.swift */; };
+		52AC44B527C4377500327907 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AC44A427C4377400327907 /* ContentView.swift */; };
+		52AC44B627C4377500327907 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52AC44A427C4377400327907 /* ContentView.swift */; };
+		52AC44B727C4377500327907 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52AC44A527C4377500327907 /* Assets.xcassets */; };
+		52AC44B827C4377500327907 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52AC44A527C4377500327907 /* Assets.xcassets */; };
+		52AC44C327C437D300327907 /* QuranAudioPlayerKit in Frameworks */ = {isa = PBXBuildFile; productRef = 52AC44C227C437D300327907 /* QuranAudioPlayerKit */; };
+		52AC44C627C438EE00327907 /* Data.json in Resources */ = {isa = PBXBuildFile; fileRef = 52AC44C527C438EE00327907 /* Data.json */; };
+		52AC44C727C438EE00327907 /* Data.json in Resources */ = {isa = PBXBuildFile; fileRef = 52AC44C527C438EE00327907 /* Data.json */; };
+		52AC44CB27C43DA300327907 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52AC44CA27C43DA300327907 /* AudioToolbox.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		52AC44A327C4377400327907 /* Quran_Russian_iOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quran_Russian_iOSApp.swift; sourceTree = "<group>"; };
+		52AC44A427C4377400327907 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		52AC44A527C4377500327907 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		52AC44AA27C4377500327907 /* Quran-Russian-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quran-Russian-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		52AC44B027C4377500327907 /* Quran-Russian-iOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quran-Russian-iOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		52AC44B227C4377500327907 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		52AC44C527C438EE00327907 /* Data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Data.json; sourceTree = "<group>"; };
+		52AC44C827C43DA300327907 /* Quran-Russian-iOS (iOS).entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Quran-Russian-iOS (iOS).entitlements"; sourceTree = "<group>"; };
+		52AC44CA27C43DA300327907 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk/System/Library/Frameworks/AudioToolbox.framework; sourceTree = DEVELOPER_DIR; };
+		52AC44CC27C43DCC00327907 /* Quran-Russian-iOS--iOS--Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Quran-Russian-iOS--iOS--Info.plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52AC44A727C4377500327907 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52AC44C327C437D300327907 /* QuranAudioPlayerKit in Frameworks */,
+				52AC44CB27C43DA300327907 /* AudioToolbox.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52AC44AD27C4377500327907 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52AC449D27C4377300327907 = {
+			isa = PBXGroup;
+			children = (
+				52AC44CC27C43DCC00327907 /* Quran-Russian-iOS--iOS--Info.plist */,
+				52AC44C827C43DA300327907 /* Quran-Russian-iOS (iOS).entitlements */,
+				52AC44A227C4377400327907 /* Shared */,
+				52AC44B127C4377500327907 /* macOS */,
+				52AC44AB27C4377500327907 /* Products */,
+				52AC44C927C43DA300327907 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		52AC44A227C4377400327907 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				52AC44C427C438B500327907 /* Data */,
+				52AC44A327C4377400327907 /* Quran_Russian_iOSApp.swift */,
+				52AC44A427C4377400327907 /* ContentView.swift */,
+				52AC44A527C4377500327907 /* Assets.xcassets */,
+			);
+			path = Shared;
+			sourceTree = "<group>";
+		};
+		52AC44AB27C4377500327907 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52AC44AA27C4377500327907 /* Quran-Russian-iOS.app */,
+				52AC44B027C4377500327907 /* Quran-Russian-iOS.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52AC44B127C4377500327907 /* macOS */ = {
+			isa = PBXGroup;
+			children = (
+				52AC44B227C4377500327907 /* macOS.entitlements */,
+			);
+			path = macOS;
+			sourceTree = "<group>";
+		};
+		52AC44C427C438B500327907 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				52AC44C527C438EE00327907 /* Data.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		52AC44C927C43DA300327907 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52AC44CA27C43DA300327907 /* AudioToolbox.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52AC44A927C4377500327907 /* Quran-Russian-iOS (iOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52AC44BB27C4377500327907 /* Build configuration list for PBXNativeTarget "Quran-Russian-iOS (iOS)" */;
+			buildPhases = (
+				52AC44A627C4377500327907 /* Sources */,
+				52AC44A727C4377500327907 /* Frameworks */,
+				52AC44A827C4377500327907 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Quran-Russian-iOS (iOS)";
+			packageProductDependencies = (
+				52AC44C227C437D300327907 /* QuranAudioPlayerKit */,
+			);
+			productName = "Quran-Russian-iOS (iOS)";
+			productReference = 52AC44AA27C4377500327907 /* Quran-Russian-iOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+		52AC44AF27C4377500327907 /* Quran-Russian-iOS (macOS) */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52AC44BE27C4377500327907 /* Build configuration list for PBXNativeTarget "Quran-Russian-iOS (macOS)" */;
+			buildPhases = (
+				52AC44AC27C4377500327907 /* Sources */,
+				52AC44AD27C4377500327907 /* Frameworks */,
+				52AC44AE27C4377500327907 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Quran-Russian-iOS (macOS)";
+			productName = "Quran-Russian-iOS (macOS)";
+			productReference = 52AC44B027C4377500327907 /* Quran-Russian-iOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52AC449E27C4377300327907 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1320;
+				LastUpgradeCheck = 1320;
+				TargetAttributes = {
+					52AC44A927C4377500327907 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+					52AC44AF27C4377500327907 = {
+						CreatedOnToolsVersion = 13.2.1;
+					};
+				};
+			};
+			buildConfigurationList = 52AC44A127C4377300327907 /* Build configuration list for PBXProject "Quran-Russian-iOS" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 52AC449D27C4377300327907;
+			packageReferences = (
+				52AC44C127C437D300327907 /* XCRemoteSwiftPackageReference "QuranAudioPlayerKit" */,
+			);
+			productRefGroup = 52AC44AB27C4377500327907 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52AC44A927C4377500327907 /* Quran-Russian-iOS (iOS) */,
+				52AC44AF27C4377500327907 /* Quran-Russian-iOS (macOS) */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52AC44A827C4377500327907 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52AC44B727C4377500327907 /* Assets.xcassets in Resources */,
+				52AC44C627C438EE00327907 /* Data.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52AC44AE27C4377500327907 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52AC44B827C4377500327907 /* Assets.xcassets in Resources */,
+				52AC44C727C438EE00327907 /* Data.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52AC44A627C4377500327907 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52AC44B527C4377500327907 /* ContentView.swift in Sources */,
+				52AC44B327C4377500327907 /* Quran_Russian_iOSApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52AC44AC27C4377500327907 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52AC44B627C4377500327907 /* ContentView.swift in Sources */,
+				52AC44B427C4377500327907 /* Quran_Russian_iOSApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		52AC44B927C4377500327907 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		52AC44BA27C4377500327907 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		52AC44BC27C4377500327907 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Quran-Russian-iOS (iOS).entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 35Y7TCQ45E;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Quran-Russian-iOS--iOS--Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "abid.Quran-Russian-iOS";
+				PRODUCT_NAME = "Quran-Russian-iOS";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		52AC44BD27C4377500327907 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Quran-Russian-iOS (iOS).entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 35Y7TCQ45E;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Quran-Russian-iOS--iOS--Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "abid.Quran-Russian-iOS";
+				PRODUCT_NAME = "Quran-Russian-iOS";
+				SDKROOT = iphoneos;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		52AC44BF27C4377500327907 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 35Y7TCQ45E;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "abid.Quran-Russian-iOS";
+				PRODUCT_NAME = "Quran-Russian-iOS";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		52AC44C027C4377500327907 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = macOS/macOS.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 35Y7TCQ45E;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 12.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "abid.Quran-Russian-iOS";
+				PRODUCT_NAME = "Quran-Russian-iOS";
+				SDKROOT = macosx;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52AC44A127C4377300327907 /* Build configuration list for PBXProject "Quran-Russian-iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52AC44B927C4377500327907 /* Debug */,
+				52AC44BA27C4377500327907 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52AC44BB27C4377500327907 /* Build configuration list for PBXNativeTarget "Quran-Russian-iOS (iOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52AC44BC27C4377500327907 /* Debug */,
+				52AC44BD27C4377500327907 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52AC44BE27C4377500327907 /* Build configuration list for PBXNativeTarget "Quran-Russian-iOS (macOS)" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52AC44BF27C4377500327907 /* Debug */,
+				52AC44C027C4377500327907 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		52AC44C127C437D300327907 /* XCRemoteSwiftPackageReference "QuranAudioPlayerKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Quran-Audio/QuranAudioPlayerKit";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		52AC44C227C437D300327907 /* QuranAudioPlayerKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 52AC44C127C437D300327907 /* XCRemoteSwiftPackageReference "QuranAudioPlayerKit" */;
+			productName = QuranAudioPlayerKit;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 52AC449E27C4377300327907 /* Project object */;
+}
